@@ -25,7 +25,7 @@
 
         controllers: [
             'mh.controller.Root',
-            'mh.controller.Auth',
+            'Hgis.controller.Auth',
             'mh.controller.Organization',
             'mh.controller.Splash'
         ],

@@ -6,7 +6,7 @@
 
     Ext.define('Hgis.view.main.MainController', {
 
-        extend: 'mh.module.mainView.MainViewController',
+        extend: 'mh.module.mainViewDesktop.MainViewDesktopController',
 
         alias: 'controller.main',
 

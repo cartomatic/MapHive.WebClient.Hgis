@@ -5,11 +5,11 @@
     'use strict';
 
     Ext.define('Hgis.view.main.Main', {
-        extend: 'mh.module.mainView.MainView',
+        extend: 'mh.module.mainViewDesktop.MainViewDesktop',
 
         requires: [
-            'mh.module.mainView.NavMenu',
-            'mh.module.mainView.NavMenu',
+            'mh.module.mainViewDesktop.NavMenu',
+            'mh.module.mainViewDesktop.NavMenu',
             'Hgis.view.main.MainController',
             'Hgis.store.RoutesMainMenu',
             'Hgis.store.RoutesNonMainMenu',
