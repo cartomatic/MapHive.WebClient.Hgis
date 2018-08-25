@@ -8,10 +8,10 @@
         extend: 'Ext.data.Store',
 
         requires: [
-            'mh.data.model.NavRoute'
+            'mh.data.model.Route'
         ],
 
-        model: 'mh.data.model.NavRoute',
+        model: 'mh.data.model.Route',
 
         data: [
             // {

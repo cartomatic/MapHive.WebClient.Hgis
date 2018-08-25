@@ -20,7 +20,7 @@
             //</debug>
 
             //<debug>
-            if(false){
+            if(true){
                 this.getAuthUiInstance().showLogonViewWithAutoLogon('queen@maphive.net', 'test');
             }
             else {

@@ -11,7 +11,8 @@
         ],
         constructor: function() {
             mh.FontIconsDictionary.addIcons({
-                mainMenuMap: 'x-i54c i54c-globe'
+                mainMenuMap: 'x-i54c i54c-globe',
+                mainMenuUsers: 'x-i54 i54-group-1'
             });
         }
     });

@@ -7,7 +7,7 @@ docs/docs/
 #webstorm
 .idea
 
-#ignore a linked webgis generic package
+#ignore a linked mh generic package
 packages/
 
 
